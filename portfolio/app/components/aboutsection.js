@@ -1,15 +1,15 @@
 "use client";
 import { AnimatePresence, motion } from "framer-motion";
 import { useEffect, useState } from "react";
-import close from "../images/close.svg"
+import close from "../images/close.svg";
 import Image from "next/image";
-import md from "../images/md.svg";
-import next from "../images/next.svg";
-import node from "../images/node.svg";
-import react from "../images/react.svg";
+// import md from "../images/md.svg";
+import next from "../images/next.png";
+import node from "../images/node.jpg";
+import react from "../images/react.png";
 import stripe from "../images/stripe.svg";
-import supabase from "../images/supabase.svg";
-import js from "../images/js.svg";
+import supabase from "../images/supabase.png";
+import js from "../images/js.png";
 import Link from "next/link";
 
 export default function AboutSection() {
