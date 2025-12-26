@@ -1,5 +1,5 @@
-import Common from "@/components/common";
-import AboutSection from "@/components/aboutSection";
+import Common from "./components/common";
+import AboutSection from "./components/aboutsection";
 
 export default function Home() {
   return (

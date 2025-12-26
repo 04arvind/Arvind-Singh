@@ -1,5 +1,5 @@
 import Image from "next/image";
-import XLogo from "../images/x.png";
+import XLogo from "../images/X.png";
 import linkedLogo from "../images/linkedin.png";
 import githubLogo from "../images/github.png";
 
